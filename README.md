@@ -1,7 +1,7 @@
 # SalmonttApp - Semana 8
 
 ## Desarrollo Orientado a Objetos I - DuocUC
-**Experiencia 2 - Semana 8: Integrando interfaces, polimorfismo y estructuras dinámicas**
+**Experiencia 3 - Semana 8: Integrando interfaces, polimorfismo y estructuras dinámicas**
 
 ## Descripción
 
@@ -153,4 +153,4 @@ RESUMEN POR TIPO:
 
 **Fuad Oñate**  
 Desarrollo Orientado a Objetos I - DuocUC  
-Experiencia 2 - Semana 8
+Experiencia 3 - Semana 8
